@@ -1,3 +1,11 @@
 h1 {
   color: blue;
 }
+.container {
+  width: 800px;
+  margin: 0 auto;
+  background-color: lightgray;
+}
+.clickable {
+  cursor: hand;
+}
